@@ -113,15 +113,16 @@ background-color: #404bbf;}
 }
 .team-title {
     color: var(--NAVY-BLUE, #2E2F42);
-    text-align: center;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center;
+}
 
     
-}
+
 .team-list {
     background: var(--WHITE, #FFF);
    
@@ -148,12 +149,12 @@ background-color: #404bbf;}
 .portfolio {
 }
 .portfolio-title { color: var(--NAVY-BLUE, #2E2F42);
-    text-align: center;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center;
 }
 .portfolio-list {
 }
