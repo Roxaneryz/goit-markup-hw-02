@@ -54,7 +54,7 @@ font-weight: 500;
 line-height: 1.5; 
 letter-spacing: 0.02em;
 }
-.header-menu-mail,  .header-menu-tel {
+.address-link {
     color: var(--SLATE, #434455);
 font-size: 16px;
 line-height: 1.5;
@@ -102,7 +102,6 @@ background: var(--IRIS, #4D5AE5);
 .bns-plan-text {color: var(--SLATE, #434455);
 
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -166,7 +165,6 @@ background: var(--IRIS, #4D5AE5);
 .portfolio-list-text {color: var(--SLATE, #434455);
     font-size: 16px;
     font-style: normal;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
